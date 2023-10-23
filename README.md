@@ -1,4 +1,5 @@
-![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/9152eab8-ace6-4c44-9683-6e7f6db79d21)
+![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/d0a4b14f-27f9-491c-bec9-1c08ad619646)
+
 
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
