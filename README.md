@@ -1,4 +1,4 @@
-![wepik-export-20231023104211tnBI (2)](https://github.com/Harsha-10/Harsha-10/assets/94053954/730479c8-587b-49df-b15f-ebb1d77632da)
+![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/a2995afd-393a-40bf-976d-b5f76caae7c8)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
