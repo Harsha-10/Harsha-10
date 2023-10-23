@@ -1,9 +1,4 @@
-![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/d0a4b14f-27f9-491c-bec9-1c08ad619646)
-
-
-<h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
+![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/a05365d7-7b3b-4172-96a9-285db615c71d)
 # 💫 About Me:
 🔭 I’m currently pursuing my BTech in CSE at **Vellore institute of technology,Chennai**<br>👯 I’m currently learning **Cloud native,PostgreSQL**<br>🤝 I’m passionate about contributing to **OpenSource**<br>🌱 How to reach me - dharsha9949@gmail.com
 
