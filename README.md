@@ -1,11 +1,11 @@
 ![image](https://github.com/Harsha-10/Harsha-10/assets/94053954/a05365d7-7b3b-4172-96a9-285db615c71d)
 # 💫 About Me:
 🔭 I’m currently pursuing my BTech in CSE at **Vellore institute of technology,Chennai**<br>👯 I’m currently learning **Cloud native,PostgreSQL**<br>🤝 I’m passionate about contributing to **OpenSource**<br>🌱 How to reach me - dharsha9949@gmail.com
-[![An image of @harsha10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsha10)](https://holopin.io/@harsha10)
 ## 🌐 Socials:
 Connect with me! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshodai-divvela-44043a223) 
-
+## Holophin Badges (Hacktoberfest):
+[![An image of @harsha10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsha10)](https://holopin.io/@harsha10)
 ## 💻 Tech Stack:
 ## Languages :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
