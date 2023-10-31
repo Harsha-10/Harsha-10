@@ -6,7 +6,7 @@ Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshodai-divvela-44043a223) 
 ## Holophin Badges (Hacktoberfest):
 [![An image of @harsha10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsha10)](https://holopin.io/@harsha10)
-## Badges i have secured while contributing to Layer5
+## Badges i have secured while contributing to [Layer5](https://github.com/layer5io/layer5)
  <a href= "https://meshery.layer5.io/user/d837c3ca-2a37-4a3a-bd2c-c4dc25ef9e39?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
